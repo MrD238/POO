@@ -5,9 +5,9 @@ public class App {
         
         empleados[] Empleados = new empleados[3];
 
-        Empleados[0] = new empliadoafulltime("pepe ", "asdfa11111000-11d", 1440000);
-        Empleados[1] = new empliadodemidtime("chepe ", "chepe23324hh", 12, 1222);
-        Empleados[2] = new empliadoafulltime("jostin arias ", "JOSTINS2024-1348U", 200000);
+        Empleados[0] = new empliadoafulltime("juan ", "23412423", 75924);
+        Empleados[1] = new empliadodemidtime("lucas ", "342914", 8, 22);
+        Empleados[2] = new empliadoafulltime("jose ", "12739432", 242556);
 
        
         for (empleados empleado : Empleados) {
